@@ -1,2 +1,2 @@
 # onetone-child
-Child Themen pour le Steel Challenge
+Child Theme pour le Steel Challenge
